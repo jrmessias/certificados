@@ -1,4 +1,4 @@
-# Certificados de Israel Aparecido Messias Júnior
+# :page_with_curl: Certificados de Israel Aparecido Messias Júnior (jrmessias)
 
 * Alura - Design Patterns para bons programadores
 * Alura - Eclipse - Produtividade extrema
@@ -16,7 +16,10 @@
 * Code Education - Linux para desenvolvedores
 * Code Education - Lumen
 * Code Education - Orientação a objetos
+* eduK - Fotografia de joias e pequenos objetos
 * MongoDB - MongoDB for developers
+* rockcontent - Especialista em Marketing de Conteúdo Avançado
+* rockcontent - Especialista em Produção de Conteúdo
 * School of net - API REST com DJango
 * School of net - Bootstrap
 * School of net - Composer
@@ -66,8 +69,10 @@
 * Sebrase EAD - D-Olho na Qualidade 5Ss para os pequenos negócios
 * SENAC - Conhecendo modelo pedagógico
 * SENAC - Elaboração de PTD
+* SENAI - Desenho Arquitetônico
 * SENAI - Empreendedorismo
 * SENAI - Fundamentos de Logística
+* SENAI - Metrologia
 * SENAI - Noções Básicas de Mecânica Automotiva
 * TDC2016Floripa-Cloud Computing
 * TDC2016Floripa-DevOps
