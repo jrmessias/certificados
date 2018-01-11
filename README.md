@@ -18,6 +18,7 @@
 * Code Education - Orientação a objetos
 * eduK - Fotografia de joias e pequenos objetos
 * MongoDB - MongoDB for developers
+* rockcontent - Especialista em Blogs Corporativos
 * rockcontent - Especialista em Marketing de Conteúdo Avançado
 * rockcontent - Especialista em Produção de Conteúdo
 * School of net - API REST com DJango
