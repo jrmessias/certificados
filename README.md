@@ -39,6 +39,7 @@
 * School of net - Javascript Básico
 * School of net - Jquery Iniciando
 * School of net - Laravel - Autenticação
+* School of net - Laravel - Notifications
 * School of net - Linux no terminal
 * School of net - Lumen
 * School of net - Materialize CSS
@@ -58,6 +59,7 @@
 * School of net - PHP Iniciando com OO
 * School of net - PSRs
 * School of net - ReactJS
+* School of net - REGEX Básico
 * School of net - Sass e Compass
 * School of net - Slim Framework
 * School of net - SOLID com PHP
@@ -71,6 +73,7 @@
 * SENAC - Conhecendo modelo pedagógico
 * SENAC - Elaboração de PTD
 * SENAI - Desenho Arquitetônico
+* SENAI - Desvendando a Indústria 4.0
 * SENAI - Empreendedorismo
 * SENAI - Fundamentos de Logística
 * SENAI - Metrologia
